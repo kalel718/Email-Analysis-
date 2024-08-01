@@ -59,6 +59,8 @@
 
 - Powershell
 
+- LetsDefend
+
 
 
 Great example of what a SOC ANALYST will face................
